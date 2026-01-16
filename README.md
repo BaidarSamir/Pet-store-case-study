@@ -1,7 +1,6 @@
 # European Pet Store Turnover Prediction: A Temporal-Geospatial Approach
 
 **Author:** Samir BAIDAR  
-**Institution:** ESI-SBA (Ecole Superieure d'Informatique de Sidi Bel Abbes)  
 **Date:** January 2026
 
 ---
